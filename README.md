@@ -1,3 +1,10 @@
+## Identifying Information:
+1. Name: Sebastian Myhr
+2. Student ID: 2375087
+3. Email: smyhr@chapman.edu
+4. Class: CPSC298
+5. Assignement: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
